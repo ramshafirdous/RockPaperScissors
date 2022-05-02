@@ -25,7 +25,6 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
 import random
 
 image_list= [rock, paper, scissors]
